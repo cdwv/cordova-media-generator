@@ -24,7 +24,7 @@
     "phantom": "^0.6.6",
     "phantomjs": "^1.9.10",
     "q": "^1.1.2",
-    "weak": "^0.3.3"
+    "weak": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^1.9.2",
